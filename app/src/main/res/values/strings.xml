@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Celebrity Database</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="enter_celebrity_first_name">Enter Celebrity First Name</string>
+    <string name="enter_celebrity_last_name">Enter Celebrity Last Name</string>
+    <string name="enter_celebrity_main_profession">Enter Celebrity Main Profession</string>
+    <string name="text_to_be_written_to_file">Text to be written to file</string>
+    <string name="text_read_from_file">Text Read from file</string>
+    <string name="submit_to_file">Submit to File</string>
+</resources>
